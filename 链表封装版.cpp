@@ -2,7 +2,7 @@
 # include <algorithm>
 #include <string.h>
 
-using namespace std;
+using namespace std
 
 struct lianbiao
 { 
