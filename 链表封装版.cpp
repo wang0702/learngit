@@ -1,6 +1,7 @@
 # include <cstdio>
 # include <algorithm>
 #include <string.h>
+#include<cstring>
 
 using namespace std
 
